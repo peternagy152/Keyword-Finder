@@ -1,0 +1,11 @@
+﻿  search.cpp
+c:\users\peter\source\repos\dsproject\dsproject\search.cpp(43): warning C4018: '<': signed/unsigned mismatch
+c:\users\peter\source\repos\dsproject\dsproject\search.cpp(53): warning C4018: '<': signed/unsigned mismatch
+c:\users\peter\source\repos\dsproject\dsproject\search.cpp(85): warning C4018: '<': signed/unsigned mismatch
+c:\users\peter\source\repos\dsproject\dsproject\search.cpp(112): warning C4018: '<': signed/unsigned mismatch
+c:\users\peter\source\repos\dsproject\dsproject\search.cpp(119): warning C4018: '<': signed/unsigned mismatch
+c:\users\peter\source\repos\dsproject\dsproject\search.cpp(162): warning C4018: '<': signed/unsigned mismatch
+c:\users\peter\source\repos\dsproject\dsproject\search.cpp(226): warning C4018: '<': signed/unsigned mismatch
+c:\users\peter\source\repos\dsproject\dsproject\search.cpp(249): warning C4018: '<': signed/unsigned mismatch
+c:\users\peter\source\repos\dsproject\dsproject\search.cpp(285): warning C4101: 'temp': unreferenced local variable
+  DsProject.vcxproj -> C:\Users\peter\source\repos\DsProject\Debug\DsProject.exe
